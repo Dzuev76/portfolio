@@ -163,16 +163,13 @@ body {
 .social > p {
     font: 14px Lovelo_Black, Arial, sans-serif;
     color: #232227;
+    border-left: 3px solid #c0c0c0;
+    padding-left: 10px;
 }
 
 .social-img > h1 {
     font: 14px Lovelo_Black, Arial, sans-serif;
     color: #232227;
-}
-
-.social {
-    padding-left: 10px;
-    border-left: 3px solid #c0c0c0;
 }
 
 .social-img-fa {
