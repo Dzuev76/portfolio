@@ -4,3 +4,7 @@ $(document).ready(function(){
             $('html, body').animate({scrollTop: scroll}, 2000);
         });
     });
+
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
