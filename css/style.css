@@ -67,6 +67,8 @@ body {
 .top-header-text-left, .top-header-text-right {
     font: 14px Justus-Italic, Arial, sans-serif;
     color: #232227;
+    animation-duration: 3s;
+    animation-delay: 1s;
 }
 
 .top-header-text-right {
@@ -82,6 +84,8 @@ body {
     font: 50px Lovelo_Black, Arial, sans-serif;
     color: #232227;
     padding: 33px 0;
+    animation-duration: 7s;
+    animation-delay: 1s;
 }
 
 .line-top {
